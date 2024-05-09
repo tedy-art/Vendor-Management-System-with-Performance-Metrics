@@ -7,7 +7,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone Repository:**
    ```
-   git clone <repository_url>
+   git clone https://github.com/tedy-art/Vendor-Management-System-with-Performance-Metrics.git
    ```
 
 2. **Install Dependencies:**
